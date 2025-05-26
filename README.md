@@ -20,12 +20,11 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{lilero}/count.svg" alt="lilero :: Visitor's Count" /></p>
-<h4 align="center">Github stats :bar_chart:</h4>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-
+### Competition Honors
 
   - 🚀 I use daily:
     ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
