@@ -13,7 +13,9 @@
 </p>
 
 ### My Contributions
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Never+give+up,+then+You+will+be+successful!;Jack20)
+<a href="https://github.com/HPUhushicheng">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小胡同学祝您今天愉快!&center=true&size=27">
+  </a>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
