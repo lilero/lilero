@@ -19,6 +19,10 @@
   </a>
 </p>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{HPUhushicheng}/count.svg" alt="HPUhushicheng :: Visitor's Count" /></p>
+<h4 align="center">Github stats :bar_chart:</h4>
+
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
