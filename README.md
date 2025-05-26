@@ -25,7 +25,7 @@
   <div>&nbsp;</div>
 
 ### Competition Honors
- 全球
+  全球
 
   - 🚀 I use daily:
     ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
