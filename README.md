@@ -25,7 +25,8 @@
   <div>&nbsp;</div>
 
 ### Competition Honors
-  全球
+  - 2025阿里云天池饿了么AI算法大赛初赛B榜第一（1/1012）
+  - 2024全球人工智能技术创新大赛亚军
 
   - 🚀 I use daily:
     ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
