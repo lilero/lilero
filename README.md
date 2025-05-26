@@ -18,7 +18,7 @@
   </a>
 </h1>
 
-### Competition Honors
+### 🏆 Competition Honors
   - 2025阿里云天池饿了么AI算法大赛初赛B榜第一（1/1012）
   - 2024全球人工智能技术创新大赛亚军
 <h1></h1>
@@ -40,7 +40,7 @@
 
 
 
-### 👨‍💻 On my way to becoming an Algorithm Engineer
+### 👨‍💻 My way to becoming an Algorithm Engineer
 
 - 🚀 I use daily
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
