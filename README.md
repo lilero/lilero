@@ -29,6 +29,10 @@
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=lilero&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="lilero的GitHub数据" />
 </div>
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPUhushicheng&langs_count=10&theme=tokyonight&layout=compact" height="300" width="600"  alt="HPUhushicheng :: Top Langs" /></p>
+
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
