@@ -58,10 +58,8 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
   ![MMDetection](https://img.shields.io/badge/MMDetection-OpenMMLab-orange?logo=github&logoColor=white)
   ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?logo=HuggingFace&logoColor=000)
-  ![LoRA](https://img.shields.io/badge/LoRA-FineTuning-ff69b4?logo=weightsandbiases&logoColor=fff)
   ![PEFT](https://img.shields.io/badge/PEFT-HF-blue?logo=python&logoColor=fff)
-  ![QLoRA](https://img.shields.io/badge/QLoRA-Lightweight-orange?logo=lightning&logoColor=fff)
-
+  
 - 🔍 Currently exploring:
   ![Qwen2.5-VL](https://img.shields.io/badge/Qwen2.5--VL-Multimodal-brightgreen?logo=alibaba&logoColor=white)
   ![OpenMMLab](https://img.shields.io/badge/OpenMMLab-Toolbox-20232a?logo=openmmlab&logoColor=white)
