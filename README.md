@@ -23,14 +23,8 @@
   - 2024全球人工智能技术创新大赛亚军
 <h1></h1>
 
-
-
-### My Contributions
-
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-
-
 
 ### 👨‍💻 My way to becoming an Algorithm Engineer
 
