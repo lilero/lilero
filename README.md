@@ -66,8 +66,7 @@
   ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-Scaling-black?logo=deepspeed&logoColor=fff)
   ![BitsAndBytes](https://img.shields.io/badge/BitsAndBytes-Quantization-lightgrey?logo=nvidia&logoColor=fff)
 
-- 🎯 Goal:  
-  To become a **multimodal foundation model algorithm engineer** at a top-tier tech company, focusing on **vision-language models**, **object detection**, and **efficient fine-tuning of large models**, with hands-on experience in tools like **MMDetection**, **LoRA**, **PEFT**, and **Qwen-VL**. 
+- 🎯 Goal: To become a **multimodal foundation model algorithm engineer** at a top-tier tech company, focusing on **vision-language models**, **object detection**, and **efficient fine-tuning of large models**, with hands-on experience in tools like **MMDetection**, **LoRA**, **PEFT**, and **Qwen-VL**. 
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
