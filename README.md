@@ -23,15 +23,7 @@
   - 2024全球人工智能技术创新大赛亚军
 <h1></h1>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{lilero}/count.svg" alt="lilero :: Visitor's Count" /></p>
-<h4 align="center">Github stats :bar_chart:</h4>
-<div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=lilero&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="lilero的GitHub数据" />
-</div>
-<h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilero&langs_count=10&theme=tokyonight&layout=compact" height="300" width="600"  alt="lilero :: Top Langs" /></p>
 
 ### My Contributions
 
@@ -70,20 +62,17 @@
   ![BitsAndBytes](https://img.shields.io/badge/BitsAndBytes-Quantization-lightgrey?logo=nvidia&logoColor=fff)
 
 - 🎯 Goal: To become a **multimodal foundation model algorithm engineer** at a top-tier tech company, focusing on **vision-language models**, **object detection**, and **efficient fine-tuning of large models**, with hands-on experience in tools like **MMDetection**, **LoRA**, **PEFT**, and **Qwen-VL**. 
+<h1></h1>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{lilero}/count.svg" alt="lilero :: Visitor's Count" /></p>
+<h4 align="center">Github stats :bar_chart:</h4>
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=lilero&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="lilero的GitHub数据" />
+</div>
+<h4 align="center">Top langs :tongue:</h4>
 
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jacksx20&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jacksx20&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jacksx20&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilero&langs_count=10&theme=tokyonight&layout=compact" height="300" width="600"  alt="lilero :: Top Langs" /></p>
 
 <div align="center" >
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
@@ -96,9 +85,3 @@
   <img align="right" width="130" src="https://github.com/Jacksx20/Jacksx20/blob/main/images/wingright.png" />
  </div>
 
- <!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jacksx20/Jacksx20/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jacksx20/Jacksx20/blob/main/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://github.com/Jacksx20/Jacksx20/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
