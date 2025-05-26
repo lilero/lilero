@@ -18,6 +18,15 @@
   </a>
 </h1>
 
+### 👋 About Me
+  - 🔭 I am currently researching remote sensing object detection and multimodal large models. 
+  - 🌱 I am learning cutting-edge technologies related to large models, such as Qwen and Llama.
+  - ✨ I have rich experience in AI competitions and look forward to collaborating with like-minded partners to compete and grow together.
+  - 🎓 I am preparing to pursue a master’s degree and looking for suitable schools and advisors. Interested professors are welcome to contact me. I hope we can have opportunities to learn and collaborate in the future.
+  - 📫 Contact: Mobile: 15059810229, DingTalk ID: llyllykdd
+  - ⚡ My hobbies include music, table tennis, and artificial intelligence. I enjoy quietly focusing on the things I love.
+<h1></h1>
+
 ### 🏆 Competition Honors
   - 2025阿里云天池饿了么AI算法大赛初赛B榜第一（1/1012）
   - 2024全球人工智能技术创新大赛亚军
