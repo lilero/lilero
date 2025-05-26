@@ -49,6 +49,9 @@
   ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
   ![Overleaf](https://img.shields.io/badge/Overleaf-40B46F?logo=overleaf&logoColor=fff&style=flat)
   ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+  ![Tianchi](https://img.shields.io/badge/Tianchi-F27A1A?logo=tencent&logoColor=fff&style=flat)
+  ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat)
+  ![ModeScope](https://img.shields.io/badge/ModeScope-0078D4?logo=modex&logoColor=fff&style=flat)
 
 
 - 🧠 Focus areas:
