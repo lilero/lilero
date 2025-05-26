@@ -31,7 +31,7 @@
 </div>
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPUhushicheng&langs_count=10&theme=tokyonight&layout=compact" height="300" width="600"  alt="HPUhushicheng :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilero&langs_count=10&theme=tokyonight&layout=compact" height="300" width="600"  alt="lilero :: Top Langs" /></p>
 
 
   <!-- for beauty 留个空行好看点 -->
