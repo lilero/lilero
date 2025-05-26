@@ -18,7 +18,7 @@
   </a>
 </h1>
 
-### 👋 About Me
+### 🔍 About Me
   - 🔭 I am currently researching remote sensing object detection and multimodal large models. 
   - 🌱 I am learning cutting-edge technologies related to large models, such as Qwen and Llama.
   - ✨ I have rich experience in AI competitions and look forward to collaborating with like-minded partners to compete and grow together.
@@ -29,7 +29,10 @@
 
 ### 🏆 Competition Honors
   - 2025阿里云天池饿了么AI算法大赛初赛B榜第一（1/1012）
+  - 2024粤港澳国际算法算例大赛-基于SAR图像的近岸密集小目标船只检测赛道Top20
   - 2024全球人工智能技术创新大赛亚军
+  - 2023全国高校计算机人工智能算法赛全国一等奖
+  - 2023-2024国家奖学金
 <h1></h1>
 
   <!-- for beauty 留个空行好看点 -->
