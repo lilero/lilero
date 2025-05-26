@@ -80,22 +80,6 @@
   ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)
 
-
-
-<table align="center" >
-
-<tr>
-  <td>
-  <div align="center" >
-    <!-- GitHub 数据统计 -->
-    <img height="137px" src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jacksx20&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=nord_dark'/>
-    <img height="137px" src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jacksx20&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=nord_dark'/><br>
-  </div>
-  </td>
-</tr>
-
-</table>
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
