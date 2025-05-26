@@ -42,10 +42,12 @@
 
 - 🚀 I use daily
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+  ![PyQt](https://img.shields.io/badge/PyQt-41CD52?logo=qt&logoColor=fff&style=flat)
   ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
   ![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=fff)
   ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
+  ![Overleaf](https://img.shields.io/badge/Overleaf-40B46F?logo=overleaf&logoColor=fff&style=flat)
   ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 
 
