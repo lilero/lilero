@@ -18,15 +18,17 @@
   </a>
 </h1>
 
+### Competition Honors
+  - 2025阿里云天池饿了么AI算法大赛初赛B榜第一（1/1012）
+  - 2024全球人工智能技术创新大赛亚军
+
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{lilero}/count.svg" alt="lilero :: Visitor's Count" /></p>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-### Competition Honors
-  - 2025阿里云天池饿了么AI算法大赛初赛B榜第一（1/1012）
-  - 2024全球人工智能技术创新大赛亚军
+
 
   - 🚀 I use daily:
     ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
