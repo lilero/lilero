@@ -13,14 +13,14 @@
 </p>
 
 ### My Contributions
-<p align="center">
+<h1 align="center">
 <a href="https://github.com/HPUhushicheng">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小李同学祝您今天愉快!&center=true&size=27">
   </a>
-</p>
+</h1>
 
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{HPUhushicheng}/count.svg" alt="HPUhushicheng :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{lilero}/count.svg" alt="lilero :: Visitor's Count" /></p>
 <h4 align="center">Github stats :bar_chart:</h4>
 
   <!-- for beauty 留个空行好看点 -->
