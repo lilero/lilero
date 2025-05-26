@@ -25,6 +25,10 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{lilero}/count.svg" alt="lilero :: Visitor's Count" /></p>
+<h4 align="center">Github stats :bar_chart:</h4>
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=lilero&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="lilero的GitHub数据" />
+</div>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
