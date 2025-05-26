@@ -1,4 +1,4 @@
-### Dear developers，Hi there 👋
+### 🤖 Dear developers，Hi there 👋
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=timeGradient&text=Hi%20THERE&reversal=false&section=header&desc=I%20am%20lilero%20😄&descAlignY=56&descSize=30&fontSize=90&fontAlignY=28&animation=twinkling" />
 </p>
