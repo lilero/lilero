@@ -42,11 +42,14 @@
 
 ### 👨‍💻 On my way to becoming an Algorithm Engineer
 
-- 🔧 Frequently used tools & languages:
+- 🚀 I use daily
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
   ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
   ![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=fff)
+  ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
+  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+
 
 - 🧠 Focus areas:
   ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0D1117?logo=OpenCV&logoColor=white)
