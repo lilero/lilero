@@ -80,8 +80,9 @@
 <h1></h1>
 
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{lilero}/count.svg" alt="lilero :: Visitor's Count" /></p>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=lilero" /> </div>
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lilero&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false"/>
+</p>
 <h4 align="center">Github stats :bar_chart:</h4>
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=lilero&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="lilero的GitHub数据" />
