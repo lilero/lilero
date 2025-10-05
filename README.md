@@ -80,8 +80,8 @@
 <h1></h1>
 
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lilero&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false"/>
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=lilero&color=blue&style=flat-square" alt="Profile views" />  
 </p>
 <h4 align="center">Github stats :bar_chart:</h4>
 <div align="center">
